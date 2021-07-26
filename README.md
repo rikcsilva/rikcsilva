@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá!!!
+Meu nome é Ricardo, sou formado em Engenharia de Controle e Automação 🤖. Atualmente trabalho com desenvolvimento e testes na área automotiva 🚗 e estou estudando programação 💻.
 
-<!--
-**rikcsilva/rikcsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interesses ⚡
 
-Here are some ideas to get you started:
+<ul>
+  <li>React Native</li>
+  <li>Node</li>
+  <li>Python</li>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🧐 My Github stats...
+
+ <div>
+   <a href="https://github.com/rikcsilva">
+   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=rikcsilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikcsilva&layout=compact&langs_count=16&theme=radical"/>
+<div>
